@@ -1,0 +1,6 @@
+*.log
+*.vcd
+*.vvp
+exp
+netlist
+untracked

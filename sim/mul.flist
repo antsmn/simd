@@ -1,0 +1,11 @@
++define+W=32
+$(SRC_DIR)/br4/be.sv
+$(SRC_DIR)/br4/pg_enc.sv
+$(SRC_DIR)/br4/pg_src.sv
+$(SRC_DIR)/br4/pg_top.sv
+$(SRC_DIR)/br4/pg_pkg.sv
+$(SRC_DIR)/fa.sv
+$(SRC_DIR)/compressor.sv
+$(SRC_DIR)/csa.sv
+$(SRC_DIR)/cpa.sv
+$(SRC_DIR)/br4/mul.sv
